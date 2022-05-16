@@ -2,7 +2,7 @@
 
 # 1. A sentiment-aware deep learning approach for personality detection from text
 
-[paper](E:\Five Factor Research\finished\A sentiment-aware deep learning approach for personality detection from text.pdf)
+[paper](E:\Five Factor Research\finished\A sentiment-aware deep learning approach for personality detection from text.pdf) 
 
 - 采用1999 essay Big Five dataset 和 kaggle MBTI dataset
 - BERT + CNN / GRU / LSTM结构，加入了Sentic情感词典信息
