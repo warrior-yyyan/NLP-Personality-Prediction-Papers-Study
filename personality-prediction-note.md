@@ -85,15 +85,19 @@
 
 [paper](./finished/07.pdf)	[translation](./finished/07zh.pdf)
 
-**皮尔逊相关系数（Pearson correlation coefficient）**
+**知识点：**
 
-点双列相关(Point Biserial Correlation)
+- **皮尔逊相关系数（Pearson correlation coefficient）：**在[统计学](https://baike.baidu.com/item/统计学/1175)中，**皮尔逊相关系数**( Pearson correlation coefficient），又称**皮尔逊积矩相关系数**（Pearson product-moment correlation coefficient，简称 **PPMCC**或**PCCs**），是用于度量两个变量X和Y之间的[相关](https://baike.baidu.com/item/相关/9882881)（线性相关），其值介于-1与1之间。在自然科学领域中，该系数广泛用于度量两个变量之间的线性相关程度。
 
-VAD PAD
+- 点二列相关（point biserial correlation）是2014年公布的心理学名词。
 
-SHAP
+- VAD和PAD的区别，[link](https://www.zhihu.com/question/339294737)  根据link中的回答来讲，语言理解上没有区别，可以当做一种东西。
+
+- **SHAP（SHapley Additive exPlanations）**是一种博弈论方法，用于解释任何机器学习模型的输出。它使用博弈论中的经典 Shapley 值及其相关扩展将最优信用分配与局部解释联系起来（有关详细信息和引文，请参阅 [论文](https://github.com/slundberg/shap#citations)）。
 
 
+
+**论文贡献点：**
 
 
 
