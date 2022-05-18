@@ -2,7 +2,7 @@
 
 # 1. A sentiment-aware deep learning approach for personality detection from text
 
-[paper](E:\Five Factor Research\finished\A sentiment-aware deep learning approach for personality detection from text.pdf) 
+[paper](./finished/01.pdf)	[translation](./finished/01zh.pdf)
 
 - 采用1999 essay Big Five dataset 和 kaggle MBTI dataset
 - BERT + CNN / GRU / LSTM结构，加入了Sentic情感词典信息
@@ -18,15 +18,15 @@
 
 # 2.Who Am I? Personality Detection Based on Deep Learning for Texts
 
-[paper](E:\Five Factor Research\finished\Who Am I Personality Detection Based on Deep Learning for Texts.pdf)
+[paper](./finished/02.pdf)	[translation](./finished/02zh.pdf)
 
 - 把word的vector拼接在双向LSTM向量中间，形成了 LL-word-LR的形式
 - 输入长度为500个word的序列用maxpool降为25长度，25代表25个句子，划分为句子级别
 - 接下来沿用textCNN的思想，3个不同的kernel做句子级别的特征提取，然后maxpool，全连接降维分类
 
-# 3. Predicting Myers-Briggs Type....
+# 3. Predicting Myers-Briggs Type Indicator with Text Classification
 
-[paper](E:\Five Factor Research\finished\Predicting Myers-Briggs Type.....pdf)
+[paper](./finished/03.pdf)
 
 - kaggle中的数据比例失衡，在测试时人为的调整了各种性格的比例，达到正常比例
 - 用NLTK处理数据，去掉网站链接，去掉停用词，去掉正文中含有INTJ INFP等预测名词，以防止网络学到记住这些知识
@@ -43,7 +43,7 @@
 
 # 4. Myers-Briggs Personality Classiﬁcation and Personality-Speciﬁc Language Generation Using Pre-trained Language Models
 
-[paper](E:\Five Factor Research\finished\Myers-Briggs Personality Classiﬁcation and Personality-Speciﬁc.pdf)
+[paper](./finished/04.pdf)
 
 - 自己爬的数据集
 - 清洗数据的时候把MBTI的类型换成了 '<type>'
@@ -56,7 +56,7 @@
 
 # 5. Deep Learning-Based Document Modeling for Personality Detection from Text
 
-[paper](E:\Five Factor Research\finished\deep-learning-based-personality-detection.pdf)
+[paper](./finished/05.pdf)
 
 - 
 
@@ -66,7 +66,7 @@
 
 # 6. Personality Trait Detection Using Bagged SVM over BERT Word Embedding Ensembles
 
-[paper](E:\Five Factor Research\finished\Personality Trait Detection Using Bagged SVM over BERT Word Embedding Ensembles.pdf)
+[paper](./finished/06.pdf)
 
 - Bert最长输入为512， 文章平均长度为650词，本文采用了sub-doc的方法，把文章切分为200词的小文章的组合，然后给这些小文章和大文章一样的标签
 - 把文章按照句号 问号处切分为句子组合，并删除所有ASCII 字母、数字、引号和感叹号以外的字符
@@ -82,11 +82,16 @@
 
 
 # 7. Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features
-[paper](E:\Personality Prediction\finished\Bottom-Up_and_Top-Down_Predicting_Personality_with_Psycholinguistic_and_Language_Model_Features.pdf)
 
+[paper](./finished/07.pdf)	[translation](./finished/07zh.pdf)
 
+**皮尔逊相关系数（Pearson correlation coefficient）**
 
+点双列相关(Point Biserial Correlation)
 
+VAD PAD
+
+SHAP
 
 
 
