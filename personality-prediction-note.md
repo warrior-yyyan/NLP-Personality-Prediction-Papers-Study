@@ -146,7 +146,8 @@ learning Technique
 
 **知识点：**
 
-- 
+- Binary-Partitioning Transformer (BPT) 一篇论文提出的方法
+- Term Frequency & Inverse Gravity Moment (TF-IGM)
 
 
 
