@@ -139,8 +139,29 @@
 
 
 
-# 9. Personality prediction model for social media using machine 
-learning Technique
+# 9. Personality prediction model for social media using machine learning Technique
+[paper](./finished/09.pdf)	[translation](./finished/09zh.pdf)
+
+**知识点：**
+
+- Binary-Partitioning Transformer (BPT) 一篇论文提出的方法
+- Term Frequency & Inverse Gravity Moment (TF-IGM)
+
+
+
+**论文贡献点：**
+
+1. 3.2中说明了数据处理的具体步骤
+
+
+
+**改进点：**
+
+1. 已发邮件，目前没有要到代码和数据集
+
+
+
+# 10. Personality prediction model for social media using machine learning Technique
 
 [paper](./finished/09.pdf)	[translation](./finished/09zh.pdf)
 
@@ -153,15 +174,13 @@ learning Technique
 
 **论文贡献点：**
 
-1. 
+1. 3.2中说明了数据处理的具体步骤
 
 
 
 **改进点：**
 
-1. 
-
-
+1. 已发邮件，目前没有要到代码和数据集
 
 
 
