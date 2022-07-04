@@ -14,8 +14,6 @@
 - 引入皮威尔逊系数说明了各种人格之间的联系不大
 - 对比了单标签分类和多标签分类
 
-
-
 # 2.Who Am I? Personality Detection Based on Deep Learning for Texts
 
 [paper](./finished/02.pdf)	[translation](./finished/02zh.pdf)
@@ -59,8 +57,6 @@
 [paper](./finished/05.pdf)
 
 - 
-
-
 
 
 
