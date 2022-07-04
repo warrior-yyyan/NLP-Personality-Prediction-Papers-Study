@@ -178,11 +178,48 @@
 
 
 
+# 11. Comparing the Quality and Speed of Sentence Classification with Modern Language Models
+
+[paper](./finished/11.pdf)
+
+**关键信息**：
+
+1. MCCV  K折交叉验证 避免小数据集的验证抖动 （8:2划分）
+
+**知识点：**
+
+1. MCC指数 一种比F1具有更多信息的指标
+2. Shapiro–Wilk [30] testing 
+
+**论文贡献点：**
+
+**改进点：**
 
 
 
 
 
+
+
+# 12. Text based personality prediction from multiple social media data sources using pre‑trained language model and model averaging
+
+[paper](./finished/12.pdf)
+
+**关键信息**：
+
+**知识点：**
+
+1. XLNet
+
+**论文贡献点：**
+
+1. 用Bert、Roberta、XLNet三种预训练模型提取特征，每种模型的输出与NLP 特征（TF-IGM、sentiment analysis、NRC）拼接送入Feed Forward
+2. 三种模型送进Feed Forward的结果 做平均
+3. 效果上基本都是三种模型融合的最好
+
+**改进点：**
+
+1. 发了要数据集和代码的邮件
 
 
 
